@@ -1,0 +1,26 @@
+
+
+.main-paieska {
+    display: inline-flex;
+    flex-direction: line;
+    float: left;
+    width: 100%;
+    margin: 0px;
+    background-color: brown;
+}
+
+.main-tekstas {
+    float: left;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: rgb(75, 75, 75);
+    background-color: blueviolet;
+}
+
+.paieska-img {
+    size: 18px;
+    height: 14px;
+    margin: 5px;
+    background-color: aquamarine;
+       
+}
