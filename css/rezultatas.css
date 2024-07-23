@@ -1,0 +1,34 @@
+.rezultatas {
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+    background-color: lightgrey
+}
+
+.rez {
+    display: flex;
+    background-color: lightgray;
+    width: 100%;
+    margin: 5px;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+    font-size: 14px;
+    color: rgb(75, 75, 75);
+    margin: 5px;
+}
+
+.rez-img {
+    display: inline-block;
+    height: 18px;
+    margin: 5px;
+    width: 10%;
+}
+
+.isvalyti {
+    display: inline-block;
+    font-size: 14px;
+    color: rgb(78, 19, 227);
+    margin: 5px;
+}

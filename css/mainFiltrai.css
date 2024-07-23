@@ -1,35 +1,30 @@
-.main-paieska {
+.filtravimas {
     display: flex;
-
     width: 100%;
-    margin: 0px;
-    padding: 15px;
+    margin: 10px;
+    padding: 10px;
     background-color: rgb(255, 255, 255);
 }
 
-.paieska {
+.filtrai {
     display: flex;
-
+    background-color: lightgray;
     width: 100%;
     margin: 0px;
-    background-color: rgb(255, 255, 255);
 }
-.main-tekstas {
+
+.filtrai-tekstas {
     display: inline-block;
-   
     font-size: 14px;
     color: rgb(75, 75, 75);
     margin: 0;
-    width: 100px;
 }
 
-.paieska-img {
+.filtrai-img {
     display: inline-block;
     height: 18px;
     margin: 5px;
     margin: 0;
-    width: 10%;     
+    width: 10%;
 }
-.paieska-img:last-child {
-    height: 9px;
-}
+

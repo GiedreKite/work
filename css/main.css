@@ -20,11 +20,18 @@ main {
     height: 90vh;
     width: 1fr;
     float: left;
-   padding: 0px;
+    padding: 0px;
     margin: 0px;
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
 
+}
+
+.giedrei {
+font-size: 20px;
+font-weight: bold;
+padding: 10px;
+background-color: lightgray;
 }
 
 
